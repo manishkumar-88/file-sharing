@@ -1,0 +1,15 @@
+db_host=''
+db_password=''
+db_user=''
+db_port=27017
+db_name=''
+jwt_secret_key=''
+base_media_url=''
+verification_url=''
+encryption_key=''
+url_validity_period=''
+smtp_port = 2525
+smtp_server =''
+mail_login =''
+mail_password ='' 
+mail_sender =''
